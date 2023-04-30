@@ -173,9 +173,9 @@
           <h3>Leaderboard</h3>
         </div>
         <div class="col-md-12">
-          <nav id="navbar" class="navbar2 text-center">
+          <nav id="navbar" class="navbar2 text-center fw-bold text-white">
             <ul>
-              <li><a class="nav-link scrollto active" href="#">Flutter</a></li>
+              <li ><a class="nav-link scrollto active" href="#">Flutter</a></li>
               <li><a class="nav-link scrollto" href="#">Kotlin</a></li>
               <li><a class="nav-link scrollto" href="#">UiDesign</a></li>
               <li><a class="nav-link scrollto" href="#">Web</a></li>
@@ -308,8 +308,8 @@
                         <img src="{{asset('template')}}/assets/img/team/team-5.jpg" class="card-img-top rounded-circle mt-1 ml-1" alt="gambar" style="width:90px;height:90px;">
                     </div>
                     <div class="col-md-6">
-                      <p class="text-bold mb-0 mt-3" style="color: #48AA33; text-align: left;">Hartanto </p>
-                      <p class="text-bold mt-0" style="text-align: left;">Batch 2 </p>
+                      <p class="fw-bold mb-0 mt-3" style="color: #48AA33; text-align: left; width: 150px;">Hartanto Santoso</p>
+                      <p class="mt-0" style="text-align: left;">Batch 2 </p>
                     </div>
                   </div>
                   </center>
@@ -332,8 +332,8 @@
                         <img src="{{asset('template')}}/assets/img/team/team-3.jpg" class="card-img-top rounded-circle mt-1 ml-1" alt="gambar" style="width:90px;height:90px;">
                     </div>
                     <div class="col-md-6">
-                      <p class="text-bold mb-0 mt-3" style="color: #48AA33; text-align: left;">Harun Arrashid </p>
-                      <p class="text-bold mt-0" style="text-align: left;">Batch 2 </p>
+                      <p class="fw-bold mb-0 mt-3" style="color: #48AA33; text-align: left; width: 150px;">Harun Arrashid </p>
+                      <p class="mt-0" style="text-align: left;">Batch 2 </p>
                     </div>
                   </div>
                   </center>
@@ -357,7 +357,7 @@
                         <img src="{{asset('template')}}/assets/img/team/team-1.jpg" class="card-img-top rounded-circle mt-1 ml-1" alt="gambar" style="width:90px;height:90px;">
                     </div>
                     <div class="col-md-6">
-                      <p class="text-bold mb-0 mt-3" style="color: #48AA33; text-align: left;">Yuda Kesuma </p>
+                      <p class="fw-bold mb-0 mt-3" style="color: #48AA33; text-align: left; width: 150px;">Yuda Kesuma </p>
                       <p class="text-bold mt-0" style="text-align: left;">Batch 2 </p>
                     </div>
                   </div>

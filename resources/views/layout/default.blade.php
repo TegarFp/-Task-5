@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="{{asset('template_dashboard')}}/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <link rel="stylesheet" href="{{asset('template_dashboard')}}/plugins/daterangepicker/daterangepicker.css">
   <link rel="stylesheet" href="{{asset('template_dashboard')}}/plugins/summernote/summernote-bs4.min.css">
+  
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
